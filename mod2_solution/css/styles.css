@@ -18,6 +18,8 @@ div.container{
 h1{
 	color: green;
 	text-align: center;
+	font-family: fantasy;
+	font-size: 50px;
 }
 #p1{
 	color: black;
@@ -34,6 +36,7 @@ h1{
 p{
 }
 .title{
+	font-family: Arial;
 	position: absolute;
 	text-align: center;
 	width: 30%;
@@ -44,6 +47,7 @@ p{
 	border: 1px solid white;
 }
 .content{
+	font-family: Helvetica;
 	color: white;
 	margin:  20px;
 }
